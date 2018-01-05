@@ -13,10 +13,16 @@ This simple HTML portfolio webpage was written for Epicodus' independent project
 ## Setup/Installation Requirements
 
 Option 1:
+* Simply go to ebruno94.github.io/portfolio to access the page.
+
+Option 2:
 * Go to https://github.com/ebruno94/portfolio-landing-page.git
-* Click clone or download button OR copy the URL
+* Click clone or download button OR copy the URL.
 * In the terminal, type git clone <URL>.
-* Once cloned, open in text editor (or using atom)
+* Once cloned, open in text editor (or using atom) to edit.
+
+Final Reminders:
+* MAKE SURE BOOTSTRAP IS IN THE CSS DIRECTORY, OTHERWISE IT WON'T WORK
 
 ## Known Bugs
 
@@ -34,6 +40,6 @@ HTML, CSS, Atom, GitHub and GitBash.
 
 ### License
 
-Copyright (c) 2018 Ernest Bruno, Faiza Husain
+Copyright (c) 2018 Ernest Bruno
 
 This software is licensed under the MIT license.
