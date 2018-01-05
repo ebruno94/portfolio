@@ -72,3 +72,9 @@ a {
   display: block;
   margin: auto;
 }
+
+span {
+  font-style: italic;
+  font-weight: bolder;
+  font-size: 18px;
+}
