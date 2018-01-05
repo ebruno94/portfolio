@@ -43,6 +43,16 @@ img {
   height: 100px;
 }
 
+#verytop img{
+  border-radius: 20px;
+  height: 80px;
+  weight: 80px;
+}
+
+.col-md-2{
+  margin-top: 15px;
+}
+
 #me {
   float: right;
   margin-left: 30px;
