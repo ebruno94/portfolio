@@ -2,7 +2,9 @@
   text-align: center;
 }
 
-
+.container p{
+  text-align: center;
+}
 hr {
   padding-top: 1px;
   padding-bottom: 1px;
