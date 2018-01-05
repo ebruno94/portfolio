@@ -33,8 +33,9 @@ img {
 }
 
 #top-bar a:hover{
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: black;
+  font-size: 20px;
 }
 #me {
   float: right;
@@ -45,6 +46,10 @@ img {
 
 #verytop h2 {
   font-style: oblique;
+}
+
+#verytop h1{
+  text-shadow: 1px 1px 1px gray;
 }
 
 h6 {
