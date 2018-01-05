@@ -16,7 +16,7 @@ Option 1:
 * Simply go to ebruno94.github.io/portfolio to access the page.
 
 Option 2:
-* Go to https://github.com/ebruno94/portfolio-landing-page.git
+* Go to https://github.com/ebruno94/portfolio.git
 * Click clone or download button OR copy the URL.
 * In the terminal, type git clone <URL>.
 * Once cloned, open in text editor (or using atom) to edit.
