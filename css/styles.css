@@ -5,6 +5,7 @@
 .container p{
   text-align: center;
 }
+
 hr {
   padding-top: 1px;
   padding-bottom: 1px;
@@ -16,4 +17,9 @@ hr {
 
 .jumbotron h1{
   text-align: center;
+  text-shadow: 1px 1px 1px black;
+}
+
+.jumbotron{
+  box-shadow: 2px 0px 25px black;
 }
