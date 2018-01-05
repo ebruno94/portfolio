@@ -23,3 +23,24 @@ hr {
 .jumbotron{
   box-shadow: 2px 0px 25px black;
 }
+
+img {
+  box-shadow: 2px 0px 25px black;
+}
+
+.jumbotron a{
+  color: black
+}
+
+#top-bar a:hover{
+  background-color: black;
+  color: white;
+}
+#me {
+  float: right;
+  margin-left: 30px;
+  margin-bottom: 20px;
+}
+a {
+  color: black;
+}
