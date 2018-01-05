@@ -9,3 +9,11 @@ hr {
   padding-top: 1px;
   padding-bottom: 1px;
 }
+
+.jumbotron p{
+  text-align: left;
+}
+
+.jumbotron h1{
+  text-align: center;
+}
